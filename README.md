@@ -4,5 +4,5 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/Ee5eepPQUh5MoufXuw4s6dcBRaRyp7SPcgj09hTZWNq7aA?e=OK5xle)
 
-<strong>GITHUB PAGE URL : https://github.com/cpe207/lab03-Arthinan660610807/ </strong>
+<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-Arthinan660610807/ </strong>
 660610807 Arthinan Changsawang
